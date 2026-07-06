@@ -2,7 +2,7 @@
 // Buttons use internal pullups: pressed = LOW
 
 #define PIN_PTT_SW   4
-#define PIN_CH_SW    5
+#define PIN_CH_SW    1
 #define PIN_PTT_LED  6
 #define PIN_PWR_SW   7   // optional test input if wired
 
