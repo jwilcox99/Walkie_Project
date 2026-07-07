@@ -1,6 +1,6 @@
 #pragma once
 
-#define FW_VERSION "v0.2"
+#define FW_VERSION "v0.2.1"
 
 #define VEXT_CTRL     36
 
